@@ -40,7 +40,7 @@ public class Pawn : Piece {
     }
 
     public void getLegalMoves(Piece[][] board) {
-
+        Debug.Log("test");
     }
 }
 
